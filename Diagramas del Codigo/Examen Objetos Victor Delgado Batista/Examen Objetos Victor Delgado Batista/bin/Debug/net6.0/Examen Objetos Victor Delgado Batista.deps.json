@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Examen Objetos Victor Delgado Batista/1.0.0": {
+        "runtime": {
+          "Examen Objetos Victor Delgado Batista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen Objetos Victor Delgado Batista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

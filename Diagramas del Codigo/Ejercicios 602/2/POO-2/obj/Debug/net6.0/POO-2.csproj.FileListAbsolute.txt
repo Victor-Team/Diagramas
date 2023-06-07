@@ -1,0 +1,15 @@
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\obj\Debug\net6.0\POO-2.csproj.AssemblyReference.cache
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\obj\Debug\net6.0\POO-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\obj\Debug\net6.0\POO-2.AssemblyInfoInputs.cache
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\obj\Debug\net6.0\POO-2.AssemblyInfo.cs
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\obj\Debug\net6.0\POO-2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\bin\Debug\net6.0\POO-2.exe
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\bin\Debug\net6.0\POO-2.deps.json
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\bin\Debug\net6.0\POO-2.runtimeconfig.json
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\bin\Debug\net6.0\POO-2.dll
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\bin\Debug\net6.0\POO-2.pdb
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\obj\Debug\net6.0\POO-2.dll
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\obj\Debug\net6.0\refint\POO-2.dll
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\obj\Debug\net6.0\POO-2.pdb
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\obj\Debug\net6.0\POO-2.genruntimeconfig.cache
+D:\OneDrive\Documentos\1º DAW\PRO\Tareas\3ª evaluacion\Objetos\POO2\2\POO-2\obj\Debug\net6.0\ref\POO-2.dll
