@@ -23,7 +23,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Examen_Objetos_Victor_Delgado_Batista.Tienda">
-    <Position X="10.25" Y="1.25" Width="1.5" />
+    <Position X="10" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAQAAAAAAACEAAgAgEAAAAAAAAAAAAAAAAAABAA=</HashCode>
       <FileName>Tienda.cs</FileName>
