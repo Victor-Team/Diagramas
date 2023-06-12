@@ -1,0 +1,30 @@
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\bin\Debug\net6.0\Examen Objetos Victor Delgado Batista.exe
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\bin\Debug\net6.0\Examen Objetos Victor Delgado Batista.deps.json
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\bin\Debug\net6.0\Examen Objetos Victor Delgado Batista.runtimeconfig.json
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\bin\Debug\net6.0\Examen Objetos Victor Delgado Batista.dll
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\bin\Debug\net6.0\Examen Objetos Victor Delgado Batista.pdb
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.csproj.AssemblyReference.cache
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.AssemblyInfoInputs.cache
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.AssemblyInfo.cs
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.csproj.CoreCompileInputs.cache
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.dll
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\refint\Examen Objetos Victor Delgado Batista.dll
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.pdb
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.genruntimeconfig.cache
+C:\Users\ModuloPRO\Desktop\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\ref\Examen Objetos Victor Delgado Batista.dll
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\bin\Debug\net6.0\Examen Objetos Victor Delgado Batista.exe
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\bin\Debug\net6.0\Examen Objetos Victor Delgado Batista.deps.json
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\bin\Debug\net6.0\Examen Objetos Victor Delgado Batista.runtimeconfig.json
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\bin\Debug\net6.0\Examen Objetos Victor Delgado Batista.dll
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\bin\Debug\net6.0\Examen Objetos Victor Delgado Batista.pdb
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.csproj.AssemblyReference.cache
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.AssemblyInfoInputs.cache
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.AssemblyInfo.cs
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.dll
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\refint\Examen Objetos Victor Delgado Batista.dll
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.pdb
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\Examen Objetos Victor Delgado Batista.genruntimeconfig.cache
+D:\OneDrive\Documentos\1º DAW\PRO\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\Examen Objetos Victor Delgado Batista\obj\Debug\net6.0\ref\Examen Objetos Victor Delgado Batista.dll
